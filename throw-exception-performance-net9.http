@@ -1,0 +1,6 @@
+@throw_exception_performance_net9_HostAddress = http://localhost:5284
+
+GET {{throw_exception_performance_net9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

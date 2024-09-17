@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\throw-exception-performance-net9.props" />
+</Project>
